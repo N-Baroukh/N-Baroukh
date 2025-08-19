@@ -20,6 +20,6 @@ Hi, I'm Noam, a computer science student at EFREI and a passionate developer.
 ## 🚩 Projects
 | Name               | Link                                                | Description                                                                                     
 |-------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Veliko             | [Repo](https://github.com/ort-montreuil/BTS-SIO-G5-2025-VELIKO-Web)      | Veliko est une carte interactive des stations Vélib' d'Île-de-France, avec gestion des favoris, espace client et espace admin pour les données. |
-| CookWithMe         | [Repo](https://github.com/N-Baroukh/cookwithmeReadMe) | CookWithMe est une plateforme interactive pour partager et découvrir des recettes, gérer vos ingrédients et interagir avec la communauté culinaire. |
-| SmartTravel        | [Repo](https://github.com/N-Baroukh/smartReadMe)  | SmartTravel est une application web complète pour préparer vos voyages : météo, checklists, notifications, numéros d’urgence et convertisseur monétaire. |
+| Veliko             | [Repo](https://github.com/ort-montreuil/BTS-SIO-G5-2025-VELIKO-Web)      | Veliko is an interactive map of Vélib' stations in Île-de-France, allowing users to manage favorites, a client space, and an admin space for station data. |
+| CookWithMe         | [Repo](https://github.com/N-Baroukh/cookwithmeReadMe) | CookWithMe is an interactive platform to share and discover recipes, manage ingredients, and interact with the culinary community. |
+| SmartTravel        | [Repo](https://github.com/N-Baroukh/smartReadMe)  | SmartTravel is a comprehensive web application to plan your trips: weather forecasts, checklists, notifications, emergency numbers, and a currency converter. |
